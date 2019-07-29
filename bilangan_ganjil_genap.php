@@ -20,4 +20,3 @@ for ($angka = 1; $angka <= 20; $angka++) {
     }
 }
 ?>
-?>
